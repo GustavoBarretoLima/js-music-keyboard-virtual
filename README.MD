@@ -1,10 +1,21 @@
-# Projeto feito no Boot Camp Ri Happy + DIO
+# 🎹 Teclado Musical Virtual
 
-## Click => [Piano Virtual](https://gustavobarretolima.github.io/js-music-keyboard-virtual/)
+Projeto desenvolvido durante o Bootcamp DIO + Ri Happy, com foco em habilidades de manipulação de DOM e eventos em JavaScript. A proposta é criar um teclado musical virtual que reproduz sons ao clicar nas teclas ou pressionar as teclas do teclado físico.
+
+# 🎼 Funcionalidades
+
+🎵 Reproduz sons ao clicar nas teclas virtuais
+
+🎹 Suporte a teclas do teclado físico
+
+🎨 Interface simples e intuitiva
+
+📱 Responsivo para diferentes tamanhos de tela
+
+# 📸 Preview
+[Piano Virtual](https://gustavobarretolima.github.io/js-music-keyboard-virtual/)
 
 ## Conecte-se comigo
-
-#### Vamos se tornar amigos, trocar ideias, realizar projetos juntos, e buscar uma vaga no mercado de trabalho ^^.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barreto-5341a9217/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@taichou6633/)
